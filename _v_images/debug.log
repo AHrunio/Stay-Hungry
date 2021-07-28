@@ -1,3 +1,0 @@
-[0727/000818:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -103
-[0727/000839:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
-[0727/001005:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
