@@ -8,7 +8,6 @@
 
 这是我用来准备后端开发秋招面试的repo。按照计算机基础知识的不同版块，记录了一些入门级的教程以及面试中常见的问题以及比较规范的答案。我用它来在平时遇到忘记的知识点时以及在面试前回顾。
 
-<div align="center">
 
 
 | &nbsp;&nbsp;&nbsp;计算机网络&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;操作系统&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;数据库&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp; |
@@ -17,6 +16,8 @@
 |                     </div>                     |                                              |                                                        |                                           |                                                              |                                                     |
 
 ### 使用方法
+
+
 
 文档中采用对每一个**知识点概述+衍生问题讲解**的形式。可以用于自测也可以当作面试前的**知识点梳理**，对一些细节问题进行复习。
 
