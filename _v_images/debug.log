@@ -1,0 +1,4 @@
+[0728/162711:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0728/165935:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0728/165943:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0729/001749:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
