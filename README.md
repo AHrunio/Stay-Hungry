@@ -77,6 +77,7 @@
 
 + [和算法约会（leetcode刷题笔记）](https://github.com/AHrunio/Dating-Algorithm)
 + [Redis入门](https://github.com/AHrunio/The-ABC-of-Redis)
++ [面试重点题、错题集（持续更新中）](https://github.com/AHrunio/Wrong_topic)
 + [MySQL入门](https://github.com/AHrunio/MySQL-Introduction)
 + [使用Xshell连接阿里云服务器](https://github.com/AHrunio/Connect-to-Alicloud-Server-Using-Xshell)
 + [MySQL操作指南&&Navicate连接](https://github.com/AHrunio/MySQL-Operation-Guide)
